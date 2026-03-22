@@ -29,7 +29,7 @@ export default function Navbar() {
             <button
               key={l.href}
               onClick={() => scrollTo(l.href)}
-              className="text-neutral-400 hover:text-neutral-200 transition-colors duration-300 font-headline tracking-tight"
+              className="text-muted-foreground hover:text-foreground transition-colors duration-300 font-headline tracking-tight"
             >
               {l.label}
             </button>
