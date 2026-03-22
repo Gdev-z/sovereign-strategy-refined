@@ -11,7 +11,7 @@ export default function Hero() {
         <img
           alt="Luxury Car and Mansion Background"
           className="w-full h-full object-cover opacity-30 grayscale"
-          src="https://lh3.googleusercontent.com/aida-public/AB6AXuBlHkw3-d6QYprpFPUtQBh2LjHkjG_hsu1IbTx4NtG_DHH1OMGbF5rM2xoZx9eF_TKFkpju0qJSoeRpgyGBaW46W8ZwxPp3HoVcRr8R39VnzbVyKccsqf5f_ISLDynBMvpYpnISO2V3KCtcqozCEBDM4Az8mV4LnNArbcDpny-HngIvLUEe-_6l3hHxRnreeFKYyRkTLzDCp2llSK8IGvPkejgUVXdNSAFGbAFOqp0clZ2usRYyXpLwtuyzoDal1dUXqbpQLWwUbMXr"
+          src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background via-transparent to-background" />
       </div>
